@@ -1,0 +1,11 @@
+ma/school/tpcustomerMohamed/entity/MicroMarket.class
+ma/school/tpcustomerMohamed/jsf/DiscountConverter.class
+ma/school/tpcustomerMohamed/jsf/CustomerBean.class
+ma/school/tpcustomerMohamed/jsf/customerDetailsBean.class
+ma/school/tpcustomerMohamed/JakartaRestConfiguration.class
+service/DiscountManager.class
+ma/school/tpcustomerMohamed/entity/Discount.class
+ma/school/tpcustomerMohamed/resources/JakartaEE10Resource.class
+config/ConfigJSF.class
+ma/school/tpcustomerMohamed/entity/Customer.class
+service/CustomerManager.class
